@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+ we have 3 input A,B and enable pin ..if enable pin is zero multiplier will be active otherwise adder will be active
 
 ## How to test
 
-Explain how to use your project
+hbhjfhjd
 
 ## External hardware
 
