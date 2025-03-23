@@ -32,7 +32,7 @@ module tt_um_adder_multiplier(
     assign uo_out[5:0] = ui_in[6]? {2'b00,adder_output}:multiplier_output;
     assign uo_out[7:6]=2'b00;
 
- 
+
   assign uio_out = 0;
   assign uio_oe  = 0;
 
